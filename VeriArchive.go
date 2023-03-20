@@ -22,7 +22,7 @@ func main() {
 	output := flag.String("o", "", "Output archive file")
 	hashAlgo := flag.String("hash", "", "Hashing algorithm (sha256, fnv1a, sha1, md5)")
 	checksumFile := flag.String("checksum", "checksum.txt", "Checksum file name")
-	verify := flag.Bool("verify", false, "Verify archive integrity (<dir> and <hash> are ignored))")
+	verify := flag.Bool("verify", false, "Verify archive integrity (<dir> is ignored))")
 
 	flag.Parse()
 
