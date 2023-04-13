@@ -1,6 +1,8 @@
 # VeriArchive
  Archive contents and create a checksum hash for us to verify contents
 
+![Preview](preview_VeriArchive.png)
+
 <pre> Usage of ./VeriArchive:
 
   -checksum string
