@@ -3,6 +3,8 @@
 
 ![Preview](preview_VeriArchive.png)
 
+![Preview2](preview2_VeriArchive.png)
+
 <pre> Usage of ./VeriArchive:
 
   -checksum string
